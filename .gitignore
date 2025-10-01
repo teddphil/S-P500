@@ -1,3 +1,5 @@
 lib/
 lib/python3.13/site-packages/
 share/
+.DS_Store
+share/man/man1/
